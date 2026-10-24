@@ -1,0 +1,17 @@
+{
+  "conflicts": [
+    {
+      "question": "How many days of remote work am I allowed per week?",
+      "doc_A": {
+        "id": "doc_official_2023",
+        "metadata": "Source: Employee Handbook v1.0 | Date: Jan 2023 | Status: Board Approved",
+        "text": "Employees are permitted a maximum of 2 days of remote work per week. No exceptions."
+      },
+      "doc_B": {
+        "id": "doc_slack_2026",
+        "metadata": "Source: Slack Export | Date: Oct 2026 | Status: Informal Chat",
+        "text": "Hey team, just checking in. I think we are all doing 4 days of remote work now right? Sounds good to me."
+      }
+    }
+  ]
+}
